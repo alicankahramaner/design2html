@@ -1,0 +1,9 @@
+body {
+  background-color: gray;
+  color: black; }
+  body.dark {
+    background-color: #333;
+    color: blue;
+    box-shadow: 0px 0px 0px red; }
+    body.dark::fullscreen {
+      border: 1px solid red; }
