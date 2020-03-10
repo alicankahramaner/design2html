@@ -12,7 +12,7 @@ A streaming builder architecture that you can use when designing html, css and j
 * PostCss
 * Babel
 
-# Usage 
+## Usage 
 
 ## Install
 ```node
