@@ -14,20 +14,20 @@ A streaming builder architecture that you can use when designing html, css and j
 
 ## Usage 
 
-## Install
+### Install
 ```node
   npm i
 ```
 
-## Development
+### Development
 ```node
   npm start
 ```
 
-## Production
+### Production
 ```node
   npm run build
 ```
 
-## Author
+#### Author
 Alican Kahramaner - alicankahramaner@gmail.com
