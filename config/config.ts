@@ -2,7 +2,7 @@ import { IConfig, IConfigSettings, IConfigBase } from "./types";
 import { mergeDeep } from "./utils";
 
 const baseConfig: IConfigBase = {
-    dest: 'dest',
+    dest: 'dist',
     src: 'src',
     isProd: false,
     styles: {
